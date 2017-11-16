@@ -1,3 +1,3 @@
 # SA
 
-Traveling Salesman probles using Simulated Annealing.
+Traveling Salesman problem using Simulated Annealing.
